@@ -95,3 +95,5 @@ build/
 # Pastas temporárias do Dropbox
 .dropbox.attr
 .dropbox.attrs
+
+mongodb/datasets/musicas/spotify_data_corrigido_UTF8.csv

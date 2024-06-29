@@ -8,6 +8,8 @@ Este relatório apresenta a implementação de uma solução de Big Data e NoSQL
 
 O objetivo deste projeto é criar uma aplicação robusta para a análise de dados musicais do Spotify, permitindo explorar a popularidade das músicas ao longo do tempo, identificar tendências em gêneros musicais e correlacionar características musicais com sua popularidade. Utilizamos uma combinação de tecnologias de Big Data e NoSQL para armazenar, processar e visualizar grandes volumes de dados de forma eficiente.
 
+link para o dataset https://www.kaggle.com/datasets/amitanshjoshi/spotify-1million-tracks
+
 ## 2. Descrição da Arquitetura
 
 A arquitetura do sistema é composta pelos seguintes componentes principais:
