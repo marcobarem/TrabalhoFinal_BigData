@@ -78,11 +78,3 @@ Jupyter Notebook: Acesse localhost:8889 para utilizar os notebooks Jupyter para 
 MongoDB: Acesse a interface do MongoDB na porta configurada (localhost:8081).
 Redis: Utilize a interface Redis Commander em localhost:8082 para monitorar o cache.
 Executar Análises: Utilize a interface Streamlit para realizar consultas e visualizar gráficos interativos baseados nos dados musicais do Spotify. Os notebooks Jupyter também podem ser utilizados para análises mais avançadas e visualizações customizadas.
-
-4. Demonstração e Avaliação
-A solução será demonstrada em um seminário em sala de aula, onde será avaliada segundo os seguintes critérios:
-
-Qualidade da Apresentação: Clareza e organização na apresentação da solução, incluindo a explicação dos componentes e funcionamento da aplicação.
-Criatividade e Inovação: Originalidade na abordagem e soluções inovadoras para os desafios apresentados.
-Correção Técnica: Escolha adequada das ferramentas e arquitetura, bem como a implementação correta e eficiente dos componentes da solução.
-Este relatório descreve a implementação e fornece as instruções necessárias para testar e avaliar a solução de Big Data e NoSQL desenvolvida, garantindo uma compreensão clara de sua arquitetura e funcionalidades.
